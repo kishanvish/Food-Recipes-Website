@@ -1,0 +1,19 @@
+body
+{
+    background-color: rgba(194, 29, 29, 0.363);
+}
+h1
+{
+    font-weight: bolder;
+    text-decoration: underline;
+    padding: 25px;
+    margin: 5px;
+}
+p
+{
+    font-size: x-large;
+}
+li
+{
+    font-size: x-large;
+}
